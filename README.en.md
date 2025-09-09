@@ -1,3 +1,5 @@
+# CREDIT: https://github.com/stevenjoezhang/live2d-widget#
+
 # Live2D Widget
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
